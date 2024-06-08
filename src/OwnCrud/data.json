@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Suresh",
+    "age": 33,
+    "dob": "29-06-1991",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "name": "Anish",
+    "age": 10,
+    "dob": "19-05-2014",
+    "gender": "male"
+  },
+  {
+    "id": 3,
+    "name": "Kirithish",
+    "age": 8,
+    "dob": "11-04-2016",
+    "gender": "male"
+  },
+  {
+    "id": 4,
+    "name": "Vivaan",
+    "age": 2,
+    "dob": "09-01-2022",
+    "gender": "male"
+  },
+  { "id": 5, "name": "Viaan", "age": 1, "dob": "13-04-2023", "gender": "male" },
+  {
+    "id": 6,
+    "name": "Blacky",
+    "age": 30,
+    "dob": "27-12-1993",
+    "gender": "female"
+  }
+]

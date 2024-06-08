@@ -1,0 +1,10 @@
+.list-name {
+  width: 80px;
+  display: inline-block;
+}
+button {
+  margin-left: 10px;
+}
+.list-wrapper > div {
+  margin-bottom: 10px;
+}
